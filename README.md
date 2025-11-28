@@ -1,4 +1,4 @@
-## Hey, I'am Cham Sarang Babunga 👋
+## Hey, I'm Cham Sarang Babunga 👋
 
 I'm passionate about building, exploring, and learning new technologies. 
 
