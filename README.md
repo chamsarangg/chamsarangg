@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey, I'am Cham Sarang Babunga 👋
 
-<!--
-**chamsarangg/chamsarangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building, exploring, and learning new technologies. 
 
-Here are some ideas to get you started:
+Currently I am learning Data Analytics Essentials @CiscoNetAcad. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🌱 Currently learning: Data Analytics Essentials 
+
+💼 Working on: TBD
+
+💡 Interests: Learning about the fundamentals of Data Analytics
+
+🎯 Goal: To finish learning Data Analytics Essentials course and learn the basic fundamentals of a Junior Data Analyst. By 2026, I want to land a job related to Data Analytics
+
